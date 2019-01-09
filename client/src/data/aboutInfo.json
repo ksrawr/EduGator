@@ -1,0 +1,37 @@
+[
+  {
+  "firstName": "Chris",
+  "lastName": "Johansen",
+  "bio": "My name is Chris Johansen. I am a Computer Science student at SFSU"
+},
+  {
+  "firstName": "Ivan",
+  "lastName": "Varela",
+  "bio": "I'm the front end lead. My hobbies are baking, gaming, and reading fantasy."
+},
+  {
+  "firstName": "Kenneth",
+  "lastName": "Surban",
+  "bio": "Hello, I am Kenneth Surban. I am a Computer Science student at SFSU"
+},
+  {
+  "firstName": "Liyao",
+  "lastName": "Jiang",
+  "bio": "I am Liyao Jiang, an international student from China"
+},
+  {
+  "firstName": "James",
+  "lastName": "Andrews",
+  "bio": "I am James Andrews. Team lead of team 3. I can't wait to graduate!"
+},
+  {
+  "firstName": "Ian",
+  "lastName": "Dennis",
+  "bio": "Hi, I am Ian Dennis and I am the backend lead for team 3. I can't wait to build a website with this cool software stack."
+},
+  {
+  "firstName": "Shirin",
+  "lastName": "Namiranian",
+  "bio": "I am a girl who is studying Computer Science at SFSU!"
+}
+]

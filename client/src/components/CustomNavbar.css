@@ -1,0 +1,22 @@
+.form-control {
+    width: 150% !important;
+    margin: 5px;
+}
+
+.menuitem {
+	padding: 0px;
+}
+
+.dropdown-toggle {
+    padding: 4px !important;
+    margin: 3px;
+}
+
+.button-drop {
+    padding: 0px;
+}
+
+.navbar {
+    margin-top: 0;
+    margin-bottom: 0;
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "post_id":4,
+    "email":"yes",
+    "name":"Wild Animus",
+    "category":"Book",
+    "description":"This book is about stuff, not sure what, but I bought it. You should buy it, now.",
+    "price":"12.00",
+    "condition":"Used",
+    "image_path":"https://edugator-items.s3.us-west-1.amazonaws.com/1540421133530",
+    "created_at":"23:27:06.454511",
+    "thumbnail":null,
+    "status":"pending"
+  },
+  {
+    "post_id":4,
+    "email":"yes",
+    "name":"Wild Animus",
+    "category":"Book",
+    "description":"This book is about stuff, not sure what, but I bought it. You should buy it, now.",
+    "price":"12.00",
+    "condition":"Used",
+    "image_path":"https://edugator-items.s3.us-west-1.amazonaws.com/1540421133530",
+    "created_at":"23:27:06.454511",
+    "thumbnail":null,
+    "status":"active"
+  },
+  {
+    "post_id":4,
+    "email":"yes",
+    "name":"Wild Animus",
+    "category":"Book",
+    "description":"This book is about stuff, not sure what, but I bought it. You should buy it, now.",
+    "price":"12.00",
+    "condition":"Used",
+    "image_path":"https://edugator-items.s3.us-west-1.amazonaws.com/1540421133530",
+    "created_at":"23:27:06.454511",
+    "thumbnail":null,
+    "status":"pending"
+  },
+  {
+    "post_id":4,
+    "email":"yes",
+    "name":"Wild Animus",
+    "category":"Book",
+    "description":"This book is about stuff, not sure what, but I bought it. You should buy it, now.",
+    "price":"12.00",
+    "condition":"Used",
+    "image_path":"https://edugator-items.s3.us-west-1.amazonaws.com/1540421133530",
+    "created_at":"23:27:06.454511",
+    "thumbnail":null,
+    "status":"pending"
+  },
+  {
+    "post_id":4,
+    "email":"yes",
+    "name":"Wild Animus",
+    "category":"Book",
+    "description":"This book is about stuff, not sure what, but I bought it. You should buy it, now.",
+    "price":"12.00",
+    "condition":"Used",
+    "image_path":"https://edugator-items.s3.us-west-1.amazonaws.com/1540421133530",
+    "created_at":"23:27:06.454511",
+    "thumbnail":null,
+    "status":"pending"
+  }
+]

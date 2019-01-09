@@ -1,0 +1,31 @@
+#form-container {
+	border: 1px solid #848484;
+	border-radius: 3px;
+}
+
+#disclaimer {
+	text-align: center;
+	color: #565656;
+  margin-top: 20px;
+}
+
+.reqNote {
+  text-align: center;
+  color: red;
+}
+
+#submitButton {
+  padding: 15px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  border: 1px solid black;
+}
+
+.submit-row {
+  padding: 15px;
+}

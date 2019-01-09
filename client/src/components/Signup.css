@@ -1,0 +1,24 @@
+@media all and (min-width: 480px) {
+  .Signup {
+    padding: 60px 0;
+  }
+
+  .Signup form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+}
+
+.required {
+	color: red;
+}
+
+
+#error {
+	margin: 0 auto;
+	text-align: center;
+	color: red;
+	font-weight: bold;
+	font-size: 1.2em;
+	width: 150%;
+}

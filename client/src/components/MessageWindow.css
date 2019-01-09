@@ -1,0 +1,46 @@
+#full-btn {
+	width: 100%;
+}
+textarea .form-control {
+	width: 100%;
+}
+
+label #left {
+	text-align: left !important;
+}
+
+.control-label {
+	font-size: 1.2em;
+}
+
+.form-control {
+	width: 100% !important;
+	display: inline;
+}
+
+#label-msg {
+	font-size: 1.2em;
+	text-align: center;
+}
+
+#create-msg-btn {
+	padding: 5px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border: 1px solid black;
+}
+
+.form-control-feedback {
+	width: 0;
+	padding: 0px 0px 0px 10px;
+	left: 85%;
+	top: 5%;
+}
+
+#error {
+	text-align: center;
+	color: red;
+}

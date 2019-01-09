@@ -1,0 +1,33 @@
+@media all and (min-width: 480px) {
+  .Login {
+    padding: 60px 0;
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+}
+.required {
+	color: red;
+}
+
+#error-message {
+	margin: 0 auto;
+	text-align: center;
+	color: red;
+	font-weight: bold;
+	font-size: 1.2em;
+	width: 150%;
+}
+
+#forgot-password-link {
+	margin: 1em 0;
+	display: inline-block;
+
+}
+
+#sign-up-link {
+	margin: 1em 0;
+	display: inline-block;
+}

@@ -1,0 +1,27 @@
+label {
+	display: inline-block;
+	padding: 12px 12px 12px 0;
+}
+
+input[type="file"] {
+	margin-top: 10px;
+}
+
+.form-control-feedback {
+	width: 0;
+	padding: 0px 0px 0px 10px;
+	left: 85%;
+	top: 5%;
+}
+
+select {
+	margin-top: 5px;
+}
+
+input[type="text"] {
+	margin-top: 5px;
+}
+
+.req {
+	color: red;
+}

@@ -1,0 +1,21 @@
+.modal-title {
+	font-size: 2em;
+	text-align: center;
+}
+
+.modal-body {	
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.panel-body {
+	font-size: 1.2em;
+}
+
+#full {
+	width: 100%;
+}
+

@@ -1,0 +1,57 @@
+.thumbnail {
+  display: flex;
+  flex-flow: column;
+  
+  width: 240px;
+  height: 400px;
+  text-align: center;
+  padding: 0;
+
+  border: none;
+  box-shadow: 0 4px 8px 3px rgba(0, 0, 0, 0.2);
+}
+
+.thumbnail:hover {
+    box-shadow: 0 8px 16px 3px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
+
+.thumbnail img{
+  display: flex;
+  flex-flow: column;
+  
+  width: 240px;
+  height: 200px;
+}
+
+.item-name{
+	font-weight: bold;
+}
+
+.click-for-more{
+	position: absolute;
+	bottom: 0;
+	margin-left: 26%;
+	font-weight: bold;
+}
+
+.item-price{
+	border: 6px solid #7573FF;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	background-color: #7573FF;
+	width: 30%;
+	font-size: 20px;
+	color: white;
+
+
+	position: absolute;
+	left: 165px;
+	top: -15px;
+}	
+
+{/*
+*/}
+
+

@@ -1,0 +1,56 @@
+{
+  "name": "csc648-fa18-team03",
+  "version": "1.0.0",
+  "description": "## Please do the following steps before completing Milestone 0. 1. Change the name of the repo from csc648-fa18-TeamNN. All that needs to chanage is the NN to your respective team number. Team numbers whos value is less than 10, please pad with a 0. Ex team 1 is Team01 team 11 is Team11. Please make sure to also remove the username from the repo as well.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build",
+    "start:dev": "NODE_ENV=development DEBUG=APP_NAME:* nodemon api/index.js",
+    "clean": "prettier --single-quote --no-semi --trailing-comma es5 --write client/src/**/*.js",
+    "clean-backend": "prettier --single-quote --no-semi --trailing-comma es5 --write api/**/*.js",
+    "db:create:migration": "sequelize migration:generate --name ",
+    "db:migrate": "sequelize db:migrate",
+    "db:rollback": "sequelize db:migrate:undo",
+    "db:prod": "heroku pg:psql postgresql-trapezoidal-47362 --app team03-648"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesFTW/csc648-fa18-Team03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesFTW/csc648-fa18-Team03/issues"
+  },
+  "homepage": "https://github.com/JamesFTW/csc648-fa18-Team03#readme",
+  "dependencies": {
+    "aws-sdk": "^2.339.0",
+    "bcrypt": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^6.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "form-data": "^2.3.3",
+    "jwt-simple": "^0.5.5",
+    "multer": "^1.4.1",
+    "node-gyp": "^3.8.0",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "pg-promise": "^8.5.1",
+    "react": "^16.5.2",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.5.2",
+    "sequelize": "^4.41.0",
+    "sequelize-cli": "^5.2.0",
+    "sharp": "^0.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4",
+    "prettier": "1.14.3"
+  }
+}

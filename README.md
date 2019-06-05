@@ -6,7 +6,7 @@ EduGator is a full stack web application for San Francisco State University stud
 
 - [DemoURL](#demourl)
 - [Built With](#built-with)
-- [Available](#available-scripts)
+- [Available Scripts](#available-scripts)
 - [Learn More](#learn-more)
 
 ## DemoURL

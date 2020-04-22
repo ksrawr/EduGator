@@ -14,11 +14,11 @@ EduGator is a full stack web application for San Francisco State University stud
 https://team03-648.herokuapp.com/
 
 ## Built With 
-* [React](https://reactjs.org/) - The web framework used
+* [React](https://reactjs.org/)
 * [React-Bootstrap](https://react-bootstrap.github.io/)
 * [Express](https://expressjs.com/)
 * [NodeJS](https://nodejs.org/en/)
-* [PostgreSQL](https://www.postgresql.org/) - Database
+* [PostgreSQL](https://www.postgresql.org/)
 
 ## Available Scripts
 

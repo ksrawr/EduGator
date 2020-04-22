@@ -1,4 +1,5 @@
 # EduGator
+[![Build Status](https://travis-ci.com/ksrawr/EduGator.svg?branch=master)](https://travis-ci.com/ksrawr/EduGator)
 
 EduGator is a full stack web application for San Francisco State University students to buy and sell to one another. Students can create postings of things they want to sell and students who are interested can message each other. EduGator is a CSC648 school project. 
 
